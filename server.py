@@ -7,7 +7,6 @@ import os
 import requests
 import threading
 import openai
-from dotenv import load_dotenv
 import os
 from scipy.io.wavfile import write
 import sounddevice as sd
